@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "NodeJSExample",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamleah/NodeJSProject.git"
+  },
+  "author": "leah chamberlain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamleah/NodeJSProject/issues"
+  },
+  "homepage": "https://github.com/chamleah/NodeJSProject#readme"
+}
